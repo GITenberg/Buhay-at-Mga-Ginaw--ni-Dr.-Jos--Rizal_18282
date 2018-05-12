@@ -1,0 +1,26 @@
+_repo: Buhay-at-Mga-Ginaw--ni-Dr.-Jos--Rizal_18282
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18282-h/images/cover_b.jpg
+creator:
+  author:
+    agent_name: Poblete, Pascual Hicaro
+    birthdate: 1857
+    deathdate: 1921
+    gutenberg_agent_id: '7919'
+    url: http://www.gutenberg.org/2009/agents/7919
+description: ''
+gutenberg_issued: '2006-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18282'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rizal, José, 1861-1896'
+- !lcc 'DS'
+title: Buhay at Mga Ginawâ ni Dr. José Rizal
+url: http://www.gutenberg.org/ebooks/18282
